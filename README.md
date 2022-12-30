@@ -20,5 +20,5 @@ Shorter contests are the real thing in Competitive Programming. You can become a
 After a couple of long contests, you should focus on participating in as many contests as possible across platforms like CodeChef, Codeforces, AtCoder, etc. It is ok even if you cannot solve a single problem when you start. Focus on improving with every contest by going through the editorial and solving the next 2-3 unsolved problems. It is a continuous journey of learning. As you start solving more and more problems, the concepts would get more complex.
 Continue doing this as long as possible to keep getting better.
 # Good problem sets for practice (Intermediate/Advanced):
-[A2OJ: Problem collections based on Codeforces rating](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
+[A2OJ: Problem collections based on Codeforces rating](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) <br/>
 [CSES Problem Set - Tasks](https://cses.fi/problemset/list)
