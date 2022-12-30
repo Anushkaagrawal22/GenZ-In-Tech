@@ -5,4 +5,7 @@ Join my [Whatsapp server](https://chat.whatsapp.com/K1DFvIZGAZZ447JMqYW8s6) to b
 ### Competitive Coding
 # Learn a programming language
 Start by learning a programming language. Most competitive programmers participate using C++. Java is the second most popular language for competitive programming. I suggest you pick either C++ or Java. Avoid languages like Python or JavaScript, as most problems are not tested for those languages, and many contests don't even allow those languages.
+# Practice coding on an online platform
+Writing code on online judges is very different from how coding is taught in the classroom. Additionally, there are specific errors that you would mostly not encounter while coding offline as you would generally not test in a constrained manner while coding offline. Warm up by solving some practice questions which require you to solve logical problems without any prerequisite.
+
 
