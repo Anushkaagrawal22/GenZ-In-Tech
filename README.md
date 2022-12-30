@@ -8,4 +8,3 @@ Start by learning a programming language. Most competitive programmers participa
 # Practice coding on an online platform
 Writing code on online judges is very different from how coding is taught in the classroom. Additionally, there are specific errors that you would mostly not encounter while coding offline as you would generally not test in a constrained manner while coding offline. Warm up by solving some practice questions which require you to solve logical problems without any prerequisite.
 
-
