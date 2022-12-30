@@ -16,3 +16,6 @@ CodeChef Long Challenge is a great way to learn; you will get 10 days to solve p
 After a contest, please go through the editorials of the next three problems and try to understand how to solve them. After going through the editorial, try to solve those problems in the practice section. If that problem requires a concept that you are not aware of (most likely a data structure or algorithm), learn about it and solve a few questions that require that concept.
 Continue doing this as long as possible to keep learning.
 # Start participating in short contests across websites
+Shorter contests are the real thing in Competitive Programming. You can become a good competitive programmer only by participating in short contests (2 to 2.5 hours).
+After a couple of long contests, you should focus on participating in as many contests as possible across platforms like CodeChef, Codeforces, AtCoder, etc. It is ok even if you cannot solve a single problem when you start. Focus on improving with every contest by going through the editorial and solving the next 2-3 unsolved problems. It is a continuous journey of learning. As you start solving more and more problems, the concepts would get more complex.
+Continue doing this as long as possible to keep getting better.
