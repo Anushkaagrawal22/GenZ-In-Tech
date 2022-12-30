@@ -28,6 +28,7 @@ The common errors newcomers in competitive programming should steer clear of are
 - Answering arbitrary questions <br/>
 - Dropping out
 ## Resourses
-- https://www.youtube.com/watch?v=bVKHRtafgPc
-- https://www.youtube.com/watch?v=xAeiXy8-9Y8
-- https://cses.fi/book/book.pdf
+- [William Lin](https://www.youtube.com/watch?v=bVKHRtafgPc)
+- [Erichto](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
+- [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/)
