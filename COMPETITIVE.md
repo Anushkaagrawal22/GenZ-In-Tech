@@ -1,6 +1,6 @@
 # Competitive Coding
 ## Learn a programming language
-Learn a programming language first. Most participants in programming competitions use C++. The second most used language for programming in a competitive environment is Java. I advise you to choose between C++ and Java. Avoid using Python or JavaScript because they haven't been tested for most tasks and many competitions don't even accept them.
+Learn a programming language first. Most participants in programming competitions use C++. The second most used language for programming in a competitive environment is Java. I advise you to choose between C++ and Java. Avoid using Python or JavaScript because they haven't been tested for most tasks and many competitions don't even accept them. 
 ## Practice coding on an online platform
 The way coding is taught in the classroom is considerably different from how it is written on internet sites. Additionally, there are several issues that you would typically not run into when writing offline because you would not typically test in a limited manner. Warm up by addressing some practise questions that demand logical problem-solving without any prior knowledge.
 ## Solve practice problems on CodeChef
@@ -27,3 +27,7 @@ The common errors newcomers in competitive programming should steer clear of are
 - Not taking part in competitions <br/>
 - Answering arbitrary questions <br/>
 - Dropping out
+## Resourses
+- https://www.youtube.com/watch?v=bVKHRtafgPc
+- https://www.youtube.com/watch?v=xAeiXy8-9Y8
+- https://cses.fi/book/book.pdf
