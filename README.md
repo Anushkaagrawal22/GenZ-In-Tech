@@ -10,3 +10,8 @@ Writing code on online judges is very different from how coding is taught in the
 # Solve practice problems on CodeChef
 Start solving beginner and easy problems on CodeChef. The initial problems are ad-hoc problems and don't have any prerequisites. You can solve them based on basic maths or simple logic. Solve the first 30 problems from beginner and the first 30 problems from easy. Initially, it might take some time to solve problems. It is fine to stay stuck and ultimately solve after putting in the effort. That will make you a better problem-solver. You may even encounter different types of issues. Google is your friend.
 This should take around 15 days, with an average of 4 problems per day.
+# Start participating in CodeChef Long Challenges
+At this stage, you should be pretty comfortable with online coding. You might not be able to solve many problems, but you will still know the common issues and how to test and debug them. In a contest, always start with the easiest problems.
+CodeChef Long Challenge is a great way to learn; you will get 10 days to solve problems. It is fine even if you can solve only a single problem. The idea is to solve as many problems as possible with time.
+After a contest, please go through the editorials of the next three problems and try to understand how to solve them. After going through the editorial, try to solve those problems in the practice section. If that problem requires a concept that you are not aware of (most likely a data structure or algorithm), learn about it and solve a few questions that require that concept.
+Continue doing this as long as possible to keep learning.
