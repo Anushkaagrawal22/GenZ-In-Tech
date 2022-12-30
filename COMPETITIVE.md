@@ -32,3 +32,4 @@ The common errors newcomers in competitive programming should steer clear of are
 - [Erichto](https://www.youtube.com/watch?v=xAeiXy8-9Y8)
 - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 - [Algorithms for Competitive Programming](https://cp-algorithms.com/)
+- [CS Academy](https://csacademy.com/contest/archive/)
