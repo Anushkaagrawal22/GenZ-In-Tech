@@ -22,3 +22,13 @@ Continue doing this as long as possible to keep getting better.
 # Good problem sets for practice (Intermediate/Advanced):
 [A2OJ: Problem collections based on Codeforces rating](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html) <br/>
 [CSES Problem Set - Tasks](https://cses.fi/problemset/list)
+# Common mistakes to avoid in competitive programming as a beginner
+These are the common mistakes to avoid in competitive programming as a beginner:
+<br/>
+Focusing too much on the programming language <br/>
+All practicing, No learning <br/>
+All learning, No practicing <br/>
+Only participating in contests <br/>
+Not participating in contests <br/>
+Solving random questions <br/>
+Giving up
