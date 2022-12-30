@@ -23,12 +23,11 @@ Continue doing this as long as possible to keep getting better.
 [A2OJ: Problem collections based on Codeforces rating](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html): [I have uploaded my A2OJ solution here :)](https://github.com/Anushkaagrawal22/A2OJLadderSolutions)<br/>
 [CSES Problem Set - Tasks](https://cses.fi/problemset/list)
 ### Common mistakes to avoid in competitive programming as a beginner
-These are the common mistakes to avoid in competitive programming as a beginner:
-<br/>
-Focusing too much on the programming language <br/>
-All practicing, No learning <br/>
-All learning, No practicing <br/>
-Only participating in contests <br/>
-Not participating in contests <br/>
-Solving random questions <br/>
-Giving up
+The common errors newcomers in competitive programming should steer clear of are as follows:<br/>
+Over-emphasizing the programming language <br/>
+Practice only; no learning <br/>
+No practising, only learning <br/>
+Only taking part in competitions <br/>
+Not taking part in competitions <br/>
+Answering arbitrary questions <br/>
+Dropping out
