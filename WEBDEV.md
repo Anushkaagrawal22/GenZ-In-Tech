@@ -28,3 +28,17 @@ Back-end developer requirements include knowledge of programming languages, fram
 - Database : Different DBMS technologies, including MongoDB, MySQL, Oracle, SQL Server, etc., should be understood. It deals with the management and storage of data.
 - Server : Clients across a network are any devices that provide data, services, or software. The data and information are exchanged (sent and received) between the client and server.
 - API (Application Program Interface) : It is a collection of established guidelines that permits interaction or serves as a bridge between two apps. Response from the server completes the user's request.
+Client-Server Architecture : This architecture has been created to comprehend both the request and the response. The server replies to requests for data made by the client-side whenever they are made. The image of a database, which is described in more detail in the following step, appears. This database contains the data that must be obtained.
+## Database
+We can manage data from the database, which is a collection of data (store and retrieve). Relational (SQL) and non-relational databases are the two categories (NoSQL). Popular databases include:
+Relational database management systems, like MySQL, store and handle data.
+The NoSQL database MongoDB finds key-value and graph databases.
+VoltDB: It uses memory to store data and adheres to a relational design pattern.
+## Version Control
+Each programme gets updated over time when specific libraries are added, which results in the creation of a new version of the application. If you're working on applications, using Git is a very good practise. Git is an open-source system where the full code has been present since the beginning. It restores the code and is versatile, safe, and easy to edit. All of the files, including the codebase, are saved in repositories where they may be changed as needed. Anyone can work together and adjust things as needed.
+Version Control Systems include the following:
+- GitHub
+- Apache Subversion 
+- GitLab
+- Beanstalk
+- Mercurial
