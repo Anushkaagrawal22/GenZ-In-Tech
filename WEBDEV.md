@@ -42,3 +42,20 @@ Version Control Systems include the following:
 - GitLab
 - Beanstalk
 - Mercurial
+The advantages of version control:
+- It aids in code maintenance.
+- It can be used again whenever necessary.
+- Saves the modifications.
+- Demonstrates all the adjustments that were made.
+- Enhances the efficiency of web development.
+- Participate and work together.
+## Build Projects
+Build some projects after finishing the theory portion to gain experience with full-stack programming. When you implement all of a project's front-end, back-end, and database handling components, you become an expert in web development. As you construct anything, you gain technical knowledge about things like how databases store data, how APIs link the front end to the back end, and other procedures used in web development. Develop the habit of creating projects as a result to become a productive web developer.
+## Resources
+-[HTML and CSS from scratch](https://www.youtube.com/watch?v=mU6anWqZJcc&feature=youtu.be)
+-[CSS3 Flexbox and Grid](https://www.youtube.com/watch?v=1Rs2ND1ryYc&t=12467s)
+-[JS Crash Course (Basic)](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+-[JS Full Course (Advance)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+-[JS DOM](https://www.youtube.com/watch?v=_wvi4Srvggg)
+
+-[Intro tp oop](https://www.youtube.com/watch?v=SiBw7os-_zI)
