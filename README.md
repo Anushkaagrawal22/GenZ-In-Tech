@@ -4,5 +4,5 @@ This repository is the perfect roadmap for anyone who hasn't started coding yet 
 Join my [Whatsapp server](https://chat.whatsapp.com/K1DFvIZGAZZ447JMqYW8s6) to be part of a community of inspiring programmers and connect with more like-minded people!\
 #### Competitive Coding
 ## Learn a programming language
-
+Start by learning a programming language. Most competitive programmers participate using C++. Java is the second most popular language for competitive programming. I suggest you pick either C++ or Java. Avoid languages like Python or JavaScript, as most problems are not tested for those languages, and many contests don't even allow those languages.
 
