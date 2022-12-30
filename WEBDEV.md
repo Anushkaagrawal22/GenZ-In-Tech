@@ -57,5 +57,3 @@ Build some projects after finishing the theory portion to gain experience with f
 -[JS Crash Course (Basic)](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 -[JS Full Course (Advance)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 -[JS DOM](https://www.youtube.com/watch?v=_wvi4Srvggg)
-
--[Intro tp oop](https://www.youtube.com/watch?v=SiBw7os-_zI)
