@@ -40,3 +40,39 @@ An Android application is made up of a few essential building pieces. The applic
 - Creating a Content Provider
 ### Broadcast Receiver:
 - Implicit Broadcast Exceptions
+## Simple UI Design
+Once you have a general understanding of the various Android components, you can explore some of the straightforward UI designs that are provided below.
+### Explore different layouts:
+- Frame
+- Linear
+- Relative
+- Constraint
+### View Elements:
+- TextView
+- EditText
+- Buttons
+- ImageView
+### Intent:
+- Implicit
+- Explicit
+- Intent Filter
+## Complex UI Design
+When you are comfortable with simple UI design, you should only go on to sophisticated UI design tasks like:
+- ListView
+- RecycleVIew
+- Fragments
+- Dialogs
+- Toast
+- Bottom Sheets
+- Navigation Drawer
+- Tabs
+- Material Design
+- Some inserting Animations
+## Storage
+In Android, there are three types of the storage system:
+- Shared Preferences
+- File System
+- Database
+&nbsp - RoomDB
+
+
