@@ -10,5 +10,5 @@ Join my [WhatsApp Group](https://chat.whatsapp.com/K1DFvIZGAZZ447JMqYW8s6) to be
 - [Competitive Programming](./COMPETITIVE.md)
 - [Web Development](./WEBDEV.md)
 - [App Development](./APPDEV.md)
-- [Game Development](./GAMEDEV.md)
+- [Game Development](https://github.com/utilForever/game-developer-roadmap)
 - [Cyber Security](./CYBERSEC.md)
