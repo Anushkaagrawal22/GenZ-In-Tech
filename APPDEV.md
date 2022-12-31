@@ -73,6 +73,55 @@ In Android, there are three types of the storage system:
 - Shared Preferences
 - File System
 - Database
-&nbsp - RoomDB
+- RoomDB
+## Build
+- Gradle
+- Debug/ Release Configuration
+## Threading
+- Threads
+- Looper
+## Debugging
+Debugging abilities are among a developer's most crucial skills. In order to develop, the following must be learned:
+- Exceptions
+- Error Handling
+- Logging
+- Memory Profiling
+## Memory Leaks
+- Cause of memory leaks
+- Detecting and fixing memory leaks
+- Context
+## Third-Party Libraries
+### Image Loading Libraries
+- Glide
+- Picasso
+- Fresco
+- COIL
+### Dependency Injection
+- Dragger
+### Networking
+- Retrofit
+### Multithreading
+- Coroutines
+- Rxjava
+## Android Jetpack
+According to the company's website, Android Jetpack is a collection of architectural guidelines, tools, and libraries that make it quick and simple to create top-notch Android apps. So that you may concentrate on what makes your app distinctive, it provides common infrastructure code.
+- AppCompat library
+- Architecture components,
+- Animation and transitions
+- Android Ktx
+- Navigation
+- Paging
+- Slices
+- WorkManager
+## Android Architecture
+The three famous architecture in the Android world are:
+- MVVM (Model–View–ViewModel)
+- MVI (Model-View-Intent)
+- MVP (Model View Presenter)
+## Firebase
+- FCM (Firebase Cloud Messaging)
+- Analytics
+- Remote Config
+- App Indexing
 
 
