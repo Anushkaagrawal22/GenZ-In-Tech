@@ -123,5 +123,23 @@ The three famous architecture in the Android world are:
 - Analytics
 - Remote Config
 - App Indexing
+## Unit Testing
+- Local Unit Testing
+- Instrumentation Testing
+## Security
+- Encrypt / Decrypt
+- Proguard
+## App Release
+- Signed APK
+- Play Store
+## RESOURCES
+- [KOTLIN Basics](https://kotlinlang.org/docs/basic-syntax.html)
+- [KOTLIN Advanced](https://play.kotlinlang.org/byExample/overview)
+- [KOTLIN Practice](https://play.kotlinlang.org/koans/overview)
+- [OOPS](https://www.youtube.com/watch?v=SiBw7os-_zI)
+- [OOPS](https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjgFKGBxDkb0f09ugBC0xOL)
+- [How To Download Android Studio](https://www.youtube.com/watch?v=5LMRbAiRkdY)
+- [Making Apps](https://auth.udacity.com/sign-in?next=https%3A%2F%2Fclassroom.udacity.com%2Fauthenticated)
+
 
 
