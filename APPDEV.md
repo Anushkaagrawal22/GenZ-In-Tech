@@ -23,3 +23,20 @@ Knowing your tools before using them is preferable. The IntelliJ IDEA software f
 - Reopen, close, save the project
 - Create a new activity, classes, drawable resource files
 - Run the app on AVD of Emulator or in a real device etc.
+## Android Components
+An Android application is made up of a few essential building pieces. The application manifest file, which includes a description of each component and how they work together, binds these loosely connected components together.
+### Activity:
+- Activity life cycle
+- Handle Activity State Changes
+- Understand Tasks and Back Stack
+- Processes and Application Lifecycle
+### Services:
+- Types of Android Services
+- The Life Cycle of Android Services
+### Content Provider:
+- Content URI
+- Operations in Content Provider
+- Working of the Content Provider
+- Creating a Content Provider
+### Broadcast Receiver:
+- Implicit Broadcast Exceptions
