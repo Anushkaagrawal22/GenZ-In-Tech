@@ -14,4 +14,19 @@ Quantum programming languages are, nevertheless, widely divided into:
 - Imperative Quantum Programming Language
 - Functional Quantum Programming Language
 - Multi-Paradigm Languages
-Running quantum circuits on simulators or creating quantum device prototypes both require quantum software development kits.
+Basic Mathematical Ideas A desirable skill set includes knowledge of probability, complex numbers, and linear algebra.
+All fields of quantum technology, such as ion traps, cavity QED, NMR, photonics quantum computers, and solid-state systems, can benefit from quantum information and computation, which includes quantum algorithms, quantum communication, quantum cryptography, and information processing. Quantum Information Theory, Physical Realizations, and Quantum Mechanics are all covered by QIC. to create and implement an enterprise AI-quantum strategy, they transformed into quantum engineers.
+With 50–100 qubits that can carry out sophisticated operations and outperform the capabilities of conventional computing, Noisy Intermediate-Scale Quantum (NISQ) ushers in the "NISQ" era of quantum computing. More accurate and less obtrusive fault-tolerant quantum systems are a goal for quantum engineers and quantum hardware producers.
+
+Building hybrid environments of classical and quantum computing methods involves a large amount of AI and machine learning. As quantum technology develops, more AI engineers must become quantum engineers in order to develop and implement enterprise AI-quantum strategy.
+## Business Skills
+Quantum engineers must be able to persuade others of the advantages and compatibility of their solutions with corporate objectives.
+Communication: Effective written and verbal communication skills
+Ability to collaborate with a wide group of engineers, scientists, and business stakeholders.
+Thinking Analytically and Logically
+Study Papers: involvement in research publications and prior professional experience in an R&D environment
+Support for the Scientific Community: From a Software Engineer to a Quantum Engineer, you must actively communicate, collaborate, give back to communities (such GitHub, Qiskit Community, etc.), publish research papers, and review them.
+## Soft Skills
+Soft skills are a broad category of abstract knowledge that are essential for the development of both a person and an organisation. Major characteristics for a successful transition into quantum engineering include the capacity and drive to learn, the curiosity to explore, the determination, the growth mindset, the capacity to work in a team, the capacity to express, and the capacity to communicate.
+A crucial component is networking; you need to know people who can introduce you to the appropriate people.
+Learning is a prerequisite for quantum engineering, which is a rigorous branch of science. Compared to five years ago, there are a huge number of resources on the internet, and that number is only growing. One of those sources is the [Quantum Strategy Institute] (https://quantumstrategyinstitute.com).
