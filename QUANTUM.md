@@ -30,3 +30,7 @@ Support for the Scientific Community: From a Software Engineer to a Quantum Engi
 Soft skills are a broad category of abstract knowledge that are essential for the development of both a person and an organisation. Major characteristics for a successful transition into quantum engineering include the capacity and drive to learn, the curiosity to explore, the determination, the growth mindset, the capacity to work in a team, the capacity to express, and the capacity to communicate.
 A crucial component is networking; you need to know people who can introduce you to the appropriate people.
 Learning is a prerequisite for quantum engineering, which is a rigorous branch of science. Compared to five years ago, there are a huge number of resources on the internet, and that number is only growing. One of those sources is the [Quantum Strategy Institute](https://quantumstrategyinstitute.com).
+Focusing and learning—which have no substitute—along with having connections with perhaps a small group of smart individuals who can assist you in finding the right resources for your quantum journey—are very significant lessons I've learned.
+Nature's power has always been present, but only a pioneering attitude can reveal its mysteries.
+I wish you luck as you pursue your dream of becoming a quantum engineer.
+## RESOURCES
