@@ -12,3 +12,6 @@ Join my [WhatsApp Group](https://chat.whatsapp.com/K1DFvIZGAZZ447JMqYW8s6) to be
 - [App Development](./APPDEV.md)
 - [Game Development](https://github.com/utilForever/game-developer-roadmap)
 - [Cyber Security](./CYBERSEC.md)
+- [Robotics](./ROBOTICS.md)
+- [Web3](./WEB3.md)
+- [Quantum](./QUANTUM.md)
