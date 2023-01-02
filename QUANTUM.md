@@ -34,3 +34,6 @@ Focusing and learning—which have no substitute—along with having connections
 Nature's power has always been present, but only a pioneering attitude can reveal its mysteries.
 I wish you luck as you pursue your dream of becoming a quantum engineer.
 ## RESOURCES
+- [Quantum Dynamic Programming](https://github.com/ASCII-Mentorships/quantum-dynamic-programming)
+- [Quantum Katas](https://github.com/microsoft/QuantumKatas)
+- [Quantum Computing Opportunities](https://github.com/1ethanhansen/Quantum-Computing-Opportunities)
