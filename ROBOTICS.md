@@ -12,29 +12,25 @@ In Robotics, different programming languages have different uses :-
 - ***Embedded systems and electronics*** : C
 - ***Modelling*** : Python, MATLAB
 
-We would recommend starting with either **Python** or **C/C++**. Knowing both is pretty much essential for advanced Robotics. Here are some places where you can get started:
+We would recommend starting with either **Python** or **C/C++**. Knowing both is pretty much essential for advanced Robotics. Here are some places where you can get started :-
 
-### Python
-
-* [Web tutorial](http://introtopython.org/)
-* [Corey Schafer’s video tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
-
-### C
-
-* [FreeCodeCamp Video Tutorials](https://www.youtube.com/watch?v=KJgsSFOSQv0)
-* [Browser based tutorial](https://www.learn-c.org/)
-* [Beej’s Guide](http://beej.us/guide/bgc/html) (follow if you already know programming)
-
-### C++
-
-* [Welcome to C++ Playlist - YouTube](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-* [Web tutorial](https://www.learncpp.com/)
-
-### MATLAB & Simulink
-
-* [MATLAB Onramp](https://in.mathworks.com/learn/tutorials/matlab-onramp.html) and [Simulink Onramp](https://in.mathworks.com/learn/tutorials/simulink-onramp.html). These courses introduce you to the MATLAB and Simulink environments. Many other self paced courses can be found [here](https://matlabacademy.mathworks.com/?s_tid=gn_trg_cosp).
-* This interesting “[How to](https://www.youtube.com/playlist?list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr)” playlist by MATLAB teaches some basics how to’s with MATLAB & Simulink, check out the videos which are required for solving any doubts.
-* [Versioning with Git](https://www.youtube.com/watch?v=AJynESuE1dc&list=PLn8PRpmsu08o7pv1tJ7EnEyHVWSU2-OrR&index=5) this video will help with using Git & Version control with your Simulink projects.
+- ### Python
+  * [Web tutorial](http://introtopython.org/)
+  * [Corey Schafer’s video tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+<br><br>
+- ### C
+  * [FreeCodeCamp Video Tutorials](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+  * [Browser based tutorial](https://www.learn-c.org/)
+  * [Beej’s Guide](http://beej.us/guide/bgc/html) (follow if you already know programming)
+<br><br>
+- ### C++
+  * [Welcome to C++ Playlist - YouTube](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+  * [Web tutorial](https://www.learncpp.com/)
+<br><br>
+- ### MATLAB & Simulink
+  * [MATLAB Onramp](https://in.mathworks.com/learn/tutorials/matlab-onramp.html) and [Simulink Onramp](https://in.mathworks.com/learn/tutorials/simulink-onramp.html). These courses introduce you to the MATLAB and Simulink environments. Many other self paced courses can be found [here](https://matlabacademy.mathworks.com/?s_tid=gn_trg_cosp).
+  * This interesting “[How to](https://www.youtube.com/playlist?list=PLn8PRpmsu08oBSjfGe8WIMN-2_rwWFSgr)” playlist by MATLAB teaches some basics how to’s with MATLAB & Simulink, check out the videos which are required for solving any doubts.
+  * [Versioning with Git](https://www.youtube.com/watch?v=AJynESuE1dc&list=PLn8PRpmsu08o7pv1tJ7EnEyHVWSU2-OrR&index=5) this video will help with using Git & Version control with your Simulink projects.
 
 ## Development Environment
 
