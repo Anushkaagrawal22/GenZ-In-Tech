@@ -13,5 +13,5 @@ Join my [Discord Server](https://discord.gg/ebRhEajt) to be part of a community 
 - [Game Development](https://github.com/utilForever/game-developer-roadmap)
 - [Cyber Security](https://github.com/JohnHammond/ctf-katana)
 - [Robotics](./ROBOTICS.md)
-- [Web3](./WEB3.md)
+- [Web3](https://gist.github.com/arihantbansal/f490e6a36e0b9fe0595d8b5d58926de8)
 - [Quantum](./QUANTUM.md)
